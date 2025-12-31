@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+tqdm
+os-sys
+datetime
+logging
+scikit-learn
+openpyxl
